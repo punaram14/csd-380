@@ -1,2 +1,4 @@
-# csd-380
-This is my repo for devops 380
+# CSD 380 DevOps
+## Contributors
+- Chandra Bobba
+- Puna Poudel
